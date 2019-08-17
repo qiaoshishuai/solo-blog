@@ -10,6 +10,10 @@ MrQiao
 
 ### 最新
 
+* [MySQL数据库备份与恢复](https://www.mrqiaoblog.com/articles/2019/08/16/1565947256975.html)
+* [MySQL的binlog日志学习](https://www.mrqiaoblog.com/articles/2019/08/16/1565939491797.html)
+* [Zabbix简介](https://www.mrqiaoblog.com/articles/2019/08/16/1565939195829.html)
+* [使用阿里云免费SSL证书实现全站HTTPS化](https://www.mrqiaoblog.com/articles/2019/08/16/1565938898834.html)
 * [我在 GitHub 上的开源项目](https://www.mrqiaoblog.com/my-github-repos)
 * [DDL 、 DML 、 DCL 语句详解](https://www.mrqiaoblog.com/articles/2019/08/15/1565858935676.html)
 * [MySQL的复制原理以及流程](https://www.mrqiaoblog.com/articles/2019/08/15/1565857479104.html)
