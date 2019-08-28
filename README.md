@@ -10,6 +10,7 @@ MrQiao
 
 ### 最新
 
+* [Zabbix Server以及Zabbix Agent的部署](https://www.mrqiaoblog.com/articles/2019/08/27/1566891684446.html)
 * [MySQL数据库备份与恢复](https://www.mrqiaoblog.com/articles/2019/08/16/1565947256975.html)
 * [MySQL的binlog日志学习](https://www.mrqiaoblog.com/articles/2019/08/16/1565939491797.html)
 * [Zabbix简介](https://www.mrqiaoblog.com/articles/2019/08/16/1565939195829.html)
