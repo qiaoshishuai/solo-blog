@@ -10,6 +10,9 @@ MrQiao
 
 ### 最新
 
+* [什么是宽基指数和行业指数？](https://www.mrqiaoblog.com/articles/2019/08/28/1566984829612.html)
+* [有哪些值得长期定投的基金？](https://www.mrqiaoblog.com/articles/2019/08/28/1566978154138.html)
+* [基金定投，你想知道的都在这里！](https://www.mrqiaoblog.com/articles/2019/08/28/1566967962053.html)
 * [Zabbix Server以及Zabbix Agent的部署](https://www.mrqiaoblog.com/articles/2019/08/27/1566891684446.html)
 * [MySQL数据库备份与恢复](https://www.mrqiaoblog.com/articles/2019/08/16/1565947256975.html)
 * [MySQL的binlog日志学习](https://www.mrqiaoblog.com/articles/2019/08/16/1565939491797.html)
