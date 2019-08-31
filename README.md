@@ -10,7 +10,7 @@ MrQiao
 
 ### 最新
 
-* [决定成败的不是你投资了什么，而是你的投资习惯。](https://www.mrqiaoblog.com/articles/2019/08/30/1567144853890.html)
+* [决定成败的不是你投资了什么，而是你的投资习惯](https://www.mrqiaoblog.com/articles/2019/08/30/1567144853890.html)
 * [什么是宽基指数和行业指数？](https://www.mrqiaoblog.com/articles/2019/08/28/1566984829612.html)
 * [有哪些值得长期定投的基金？](https://www.mrqiaoblog.com/articles/2019/08/28/1566978154138.html)
 * [基金定投，你想知道的都在这里！](https://www.mrqiaoblog.com/articles/2019/08/28/1566967962053.html)
