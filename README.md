@@ -10,6 +10,8 @@ MrQiao
 
 ### 最新
 
+* [Ubuntu 中开机自动执行脚本的两种方法](https://www.mrqiaoblog.com/articles/2019/09/04/1567580190455.html)
+* [Linux awk用法](https://www.mrqiaoblog.com/articles/2019/09/04/1567566018473.html)
 * [我们终将像告别姚明一样告别易建联](https://www.mrqiaoblog.com/articles/2019/09/03/1567495203688.html)
 * [决定成败的不是你投资了什么，而是你的投资习惯](https://www.mrqiaoblog.com/articles/2019/08/30/1567144853890.html)
 * [什么是宽基指数和行业指数？](https://www.mrqiaoblog.com/articles/2019/08/28/1566984829612.html)
